@@ -57,6 +57,7 @@ class _ProductCreateScreenState extends State<ProductCreateScreen> {
     }
   }
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
