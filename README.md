@@ -1,16 +1,7 @@
 # crud_app
 
-A flutter project using rest api
+A Simple CRUD Application where CRUD Operations performs on Flutter.Data are retrived from rest api's.
 
-## Getting Started
+## Product List,Create and Deletetion Screen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-09-24 205232](https://github.com/Kaabislam/crud_app/assets/42168364/e0c6cf05-c0ef-43f7-b047-96bace698ffc)
