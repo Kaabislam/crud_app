@@ -1,6 +1,7 @@
 # crud_app
 
 A Simple CRUD Application where CRUD Operations performs on Flutter.Data are retrived from rest api's.
+Backend of this project is following : https://github.com/Kaabislam/Backend_Apis_Flutter_Product_App
 
 ## Product List,Create and Deletetion Screen
 
